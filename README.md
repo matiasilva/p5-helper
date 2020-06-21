@@ -2,12 +2,11 @@
 	<br>
 	<img width="70%" src="media/p5helper.png" alt="p5-helper">
 	<br>
-	<br>
 </h1>
 
 > A helper tool for creating and managing your p5 projects!
 
-[![Downloads](https://badgen.net/npm/dt/chalk)](https://www.npmjs.com/package/chalk)[![](https://img.shields.io/badge/unicorn-approved-ff69b4.svg)](https://google.com)
+[![Downloads](https://badgen.net/npm/dt/p5-helper)](https://www.npmjs.com/package/chalk) [![](https://img.shields.io/badge/unicorn-approved-ff69b4.svg)](https://google.com)
 
 ## Install
 
