@@ -1,0 +1,36 @@
+{
+  "name": "p5-helper",
+  "version": "0.1",
+  "description": "A friendly helper tool for creating p5 projects",
+  "main": "bin/p5-helper.js",
+  "keywords": [
+    "p5"
+  ],
+  "homepage": "https://github.com/matiasilva/p5-helper#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "matiasilva",
+    "email": "mw781@srcf.net"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/matiasilva/p5-helper.git"
+  },
+  "files": [
+    "assets",
+    "utils"
+  ],
+  "license": "MIT",
+  "bin": {
+    "p5": "./bin/p5-helper.js"
+  },
+  "dependencies": {
+    "axios": "^0.19.2",
+    "chalk": "^4.1.0",
+    "download": "^8.0.0",
+    "verror": "^1.10.0",
+    "yargs": "^13.2.4"
+  }
+}
