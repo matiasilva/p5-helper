@@ -4,9 +4,11 @@
 	<br>
 </h1>
 
-> A helper tool for creating and managing your p5 projects!
+> A lightweight helper tool for creating and managing your p5 projects!
 
 [![Downloads](https://badgen.net/npm/dt/p5-helper)](https://www.npmjs.com/package/chalk) [![](https://img.shields.io/badge/unicorn-approved-ff69b4.svg)](https://google.com)
+
+Want to see a feature? Make sure to request it in the [issue tracker](https://github.com/matiasilva/p5-helper). Is `p5-helper` useful for you? If so, share it with a friend or two!
 
 ## Install
 
@@ -23,6 +25,8 @@ p5 new myAmazingProject
 ```
 
 By default, `p5-helper` will use minified files and omit the `p5.sound` library. You can override this by using the `-f` and `-s` flags for full libraries and `p5.sound`, respectively.
+
+Then, you can start a simple webserver and be well on your way to making the coolest p5 project ever!
 
 ## Other features
 
