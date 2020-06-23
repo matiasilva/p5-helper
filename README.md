@@ -6,7 +6,7 @@
 
 > A lightweight helper tool for creating and managing your p5 projects!
 
-[![Downloads](https://badgen.net/npm/dt/p5-helper)](https://www.npmjs.com/package/chalk) [![](https://img.shields.io/badge/unicorn-approved-ff69b4.svg)](https://google.com)
+[![Downloads](https://badgen.net/npm/dt/p5-helper)](https://www.npmjs.com/package/p5-helper) [![](https://img.shields.io/badge/unicorn-approved-ff69b4.svg)](https://google.com)
 
 Want to see a feature? Make sure to request it in the [issue tracker](https://github.com/matiasilva/p5-helper). Is `p5-helper` useful for you? If so, share it with a friend or two!
 
