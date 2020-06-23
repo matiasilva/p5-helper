@@ -1,6 +1,6 @@
 {
   "name": "p5-helper",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A friendly helper tool for creating p5 projects",
   "main": "bin/p5-helper.js",
   "keywords": [
